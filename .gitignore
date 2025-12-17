@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno Virtual
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Proyecto específico
+*.log
+.DS_Store
